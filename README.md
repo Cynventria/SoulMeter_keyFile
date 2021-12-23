@@ -41,7 +41,7 @@ Seperated key file for SoulMeter(a1.2.8+)
 
 
 ### 這種類型的檔案可能損害你的電腦(下略
-> 他只說有可能bat裡面塞了什麼你自己去上面點開來看，安全的
+> 他只說有可能bat，裡面塞了什麼你自己去上面點開來看，安全的
 
 ### 我怎麼知道SWPkey.bin有沒有正常
 > 關於SWPkey.bin的資訊會被寫在SoulMeter的程式版本後面   
