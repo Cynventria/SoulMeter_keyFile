@@ -7,8 +7,10 @@ Seperated key file for SoulMeter(a1.2.8+)
 + Move the batch file to the same directory with soulMeter 
 + Execute and follow instructions
 
+Batch file doesn't require update; Just run the same batch file next time when you want a update
+
 ## Update Manually
-+ Download the SWPkey.bin file above
++ Download the [SWPkey.bin](https://github.com/Cynventria/SoulMeter_keyFile/raw/main/SWPkey.bin) file above
 + Move it to the same directory with soulMeter and replace old one
 + Done
 
@@ -32,8 +34,10 @@ Seperated key file for SoulMeter(a1.2.8+)
 + 把SWP_Update.bat放到跟soulMeter同資料夾下
 + 執行SWP_Update.bat然後照小黑窗指示
 
+batch檔就留著，下次要更新就按一下就好
+
 ## 手動更新
-+ 從上方下載SWPkey.bin
++ 從上方下載[SWPkey.bin](https://github.com/Cynventria/SoulMeter_keyFile/raw/main/SWPkey.bin)
 + 把原本的SWPkey.bin換掉
 + 搞定
 
